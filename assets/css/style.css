@@ -9375,7 +9375,22 @@ html {
     bottom: 0px;
     width: 350px;
     height: 350px;
-    left: 1000px;
+    left: 1650px;
+}
+
+.section-wby .bubble112 {
+    opacity: .2;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    z-index: 0;
+}
+.section-wby .bubble112 .img {
+    position: absolute;
+    bottom: 0px;
+    width: 150px;
+    height: 150px;
+    left: 1450px;
 }
 
 .section-wby .bubble6 {
