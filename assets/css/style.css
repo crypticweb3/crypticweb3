@@ -9301,7 +9301,7 @@ html {
 
 
 .bubble {
-    opacity: .7;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9309,107 +9309,119 @@ html {
 }
 .bubble .img {
     position: absolute;
-    opacity: .7;
+    opacity: .5;
     right: 0px;
     bottom: 0px;
     width: 250px;
     height: 250px;
-    z-index: -1;
+    z-index: 0;
 }
 
 .section-wby .bubble2 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble2 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     right: 50;
     width: 450px;
     height: 450px;
+    z-index: 0;
 }
 
 
 .section-wby .bubble3 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble3 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 350px;
     height: 350px;
     left: 1280px;
+    z-index: 0;
 }
 
 .section-wby .bubble4 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble4 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 200px;
     height: 200px;
     left: 400px;
+    z-index: 0;
 }
 
 .section-wby .bubble5 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble5 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 350px;
     height: 350px;
     left: 1650px;
+    z-index: 0;
 }
 
 .section-wby .bubble112 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble112 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 150px;
     height: 150px;
     left: 1450px;
+    z-index: 0;
 }
 
 .section-wby .bubble6 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .section-wby .bubble6 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 150px;
     height: 150px;
     left: 1000px;
+    z-index: 0;
 }
 
 .bubble7 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9417,22 +9429,26 @@ html {
 }
 
 .bubble7 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 150px;
     height: 150px;
     right: 1000px;
+    z-index: 0;
 }
 
 .section .bubble7 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 450px;
     height: 450px;
     right: 1350px;
+    z-index: 0;
 }
 .section .bubble7 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9441,14 +9457,16 @@ html {
 
 
 .section .bubble7 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 450px;
     height: 450px;
     right: 1350px;
+    z-index: 0;
 }
 .section .bubble7 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9456,24 +9474,28 @@ html {
 }
 /* Container holding the image and the text */
 .container .bubble3 {
+    opacity: .5;
     position: relative;
     text-align: center;
     color: white;
+    z-index: 0;
   }
   
   
   /* Centered text */
   .centered .bubble3{
+    opacity: .5;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: 0;
   }
 
 
 
 .marquee .bubble8 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9481,16 +9503,18 @@ html {
 }
 
 .marquee .bubble8 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 450px;
     height: 450px;
     right: 1350px;
+    z-index: 0;
 }
 
 
 .bubble9 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9498,16 +9522,18 @@ html {
 }
 
 .bubble9 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 350px;
     height: 350px;
     left: 850px;
+    z-index: 0;
 }
 
 
 .bubble10 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
@@ -9515,42 +9541,48 @@ html {
 }
 
 .bubble10 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 350px;
     height: 350px;
     left: 850px;
+    z-index: 0;
 }
 
 .bubble11 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .bubble11 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 150px;
     height: 150px;
     left: 200px;
+    z-index: 0;
 }
 
 
 .bubble12 {
-    opacity: .2;
+    opacity: .5;
     position: relative;
     top: 0;
     bottom: 0;
     z-index: 0;
 }
 .bubble12 .img {
+    opacity: .5;
     position: absolute;
     bottom: 0px;
     width: 100px;
     height: 100px;
     left: 200px;
+    z-index: 0;
 }
 
 
@@ -9572,7 +9604,7 @@ html {
 
 
 .header {
-    position: relative;
+    position: absolute;
     top: 0;
     width: 100%;
     padding: 14px 15px;
@@ -9590,7 +9622,7 @@ html {
     }
 
 body .header {
-    position: relative !important; 
+    position: absolute !important; 
 }
 body .hero-banner .bg {
     opacity: .5;
